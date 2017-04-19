@@ -1,0 +1,4 @@
+npmtest-karma-browserify@0.0.1 /home/travis/build/npmtest/node-npmtest-karma-browserify
+└─┬ watchify@3.9.0 
+  └── outpipe@1.1.1 
+
